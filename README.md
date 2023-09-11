@@ -1,4 +1,4 @@
-## Stock Trading Algorithm
+# Stock Trading Algorithm
 
 # Overview
 
