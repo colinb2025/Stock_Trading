@@ -4,7 +4,7 @@
 
 This WIP project implements a stock trading algorithm using Python and several libraries including YFinance, Pandas, DateTime, and Subprocess. The algorithm continuously monitors stock data and sends notifications based on specific conditions.
 
-# Success
+# Statistics
 
  - Achieved roughly 22.1% average return on options trading during the first week of testing.
  - Utilized manual stop-loss levels and manual selling points for the results.
